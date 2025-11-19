@@ -79,3 +79,5 @@
 <img src="https://raw.githubusercontent.com/didarulshahriar37/didarulshahriar37/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=didarulshahriar37&theme=highcontrast&card_width=550)](https://git.io/streak-stats)
