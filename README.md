@@ -76,11 +76,20 @@
 
 ---
 
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=didarulshahriar37&theme=high-contrast)
+
+---
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=didarulshahriar37&theme=highcontrast&card_width=550" alt="GitHub Streak">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didarulshahriar37&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages">
+</div>
+
 <img src="https://raw.githubusercontent.com/didarulshahriar37/didarulshahriar37/output/snake.svg" alt="Snake animation" />
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=didarulshahriar37&theme=highcontrast&card_width=550)](https://git.io/streak-stats)
 
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=didarulshahriar37&theme=high-contrast)
