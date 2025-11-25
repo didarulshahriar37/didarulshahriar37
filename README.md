@@ -83,10 +83,7 @@
 
 ---
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=didarulshahriar37&theme=dark" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didarulshahriar37&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages">
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=didarulshahriar37&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/didarulshahriar37/didarulshahriar37/output/snake.svg" alt="Snake animation" />
 
