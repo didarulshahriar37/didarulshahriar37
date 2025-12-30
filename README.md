@@ -83,7 +83,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=didarulshahriar37&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=didarulshahriar37)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/didarulshahriar37/didarulshahriar37/output/snake.svg" alt="Snake animation" />
 
