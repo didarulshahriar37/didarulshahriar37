@@ -86,7 +86,6 @@
 ---
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=didarulshahriar37&theme=dark" alt="GitHub Streak" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didarulshahriar37"/>
 
 <img src="https://raw.githubusercontent.com/didarulshahriar37/didarulshahriar37/output/snake.svg" alt="Snake animation" />
 
