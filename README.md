@@ -12,6 +12,7 @@
 
 ## 🔧 Currently Working On
 - Constantly learning new technologies and improving problem-solving skills
+- Exploring Next.js and NextAuth
 - Building responsive web interfaces using React and Tailwind CSS
 - Enhancing software engineering concepts through university coursework
 
