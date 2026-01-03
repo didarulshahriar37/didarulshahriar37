@@ -4,11 +4,10 @@
 </p>
 
 ## 👤 About me
-- 🧑‍💻 Frontend Web Developer  
+- 🧑‍💻 MERN Stack Web Developer  
 - 🚀 Aspiring Software Engineer  
 - 🎓 Studying Software Engineering at the Islamic University of Technology (IUT)  
-- 🌐 Experienced with React, Tailwind CSS, DaisyUI etc.
-- 🛠️ Comfortable with Node.js, Express, and building simple backend APIs
+- 🌐 Experienced with React, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB etc.
 
 ## 🔧 Currently Working On
 - Constantly learning new technologies and improving problem-solving skills
