@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <img src="assets/banner2.gif" alt="animated banner" width="100%"/>
+  <img src="assets/banner.gif" alt="animated banner" width="100%"/>
 </p>
 
 ## 👤 About me
