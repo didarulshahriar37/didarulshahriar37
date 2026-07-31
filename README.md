@@ -1,10 +1,23 @@
-<h1 align="center">Hi there 👋</h1>
-<h2 align="center">I'm <b>Didarul Shahriar</b></h2>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vcenter=true&width=450&height=40&lines=Software+Engineering+Undergrad;MERN+Stack+Web+Developer" alt="Typing SVG" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td align="left">
+        🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp;&nbsp; <code>didarul_shahriar.js</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <br/>
+        <h1>Hi there 👋</h1>
+        <h2>I'm <b>Didarul Shahriar</b></h2>
+        <br/>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vcenter=true&width=450&height=40&lines=Software+Engineering+Undergrad+At+IUT;MERN+Stack+Web+Developer" alt="Typing SVG" />
+        </a>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -24,7 +37,7 @@
       </ul>
       <br/>
       <div>
-        <img src="https://img.shields.io/badge/University-IUT-00F2FE?style=for-the-badge&logo=graduation-cap&logoColor=black" alt="University Badge"/>
+        <img src="https://img.shields.io/badge/University-IUT-36BCF7?style=for-the-badge&logo=graduation-cap&logoColor=black" alt="University Badge"/>
       </div>
     </td>
     <td width="50%" valign="top">
