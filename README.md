@@ -1,10 +1,7 @@
 <table width="100%">
   <tr>
-    <td width="50%" align="left">
+    <td width="100%" align="left">
       🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp;&nbsp; <code>didarul_shahriar.js</code>
-    </td>
-    <td width="50%" align="right">
-      &nbsp;
     </td>
   </tr>
   <tr>
