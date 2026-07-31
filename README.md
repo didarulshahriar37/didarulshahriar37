@@ -1,19 +1,35 @@
-<h1 align="center">Hi there 👋</h1>
-<p align="center">
-  <img src="assets/banner.gif" alt="animated banner" width="100%"/>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=00F2FE&center=true&vcenter=true&width=520&height=50&lines=Hi+there!+%F0%9F%91%8B;I'm+Didarul+Shahriar;Software+Engineering+Undergrad;MERN+Stack+Web+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
+</h1>
 
-## 👤 About me
-- 🧑‍💻 MERN Stack Web Developer  
-- 🚀 Aspiring Software Engineer  
-- 🎓 Studying Software Engineering at the Islamic University of Technology (IUT)  
-- 🌐 Experienced with React, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB etc.
+<br/>
 
-## 🔧 Currently Working On
-- Constantly learning new technologies and improving problem-solving skills
-- Exploring Next.js and NextAuth
-- Building responsive web interfaces using React and Tailwind CSS
-- Enhancing software engineering concepts through university coursework
+### 👤 About Me
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Quick Overview</h3>
+      <ul>
+        <li>🧑‍💻 <b>Role:</b> MERN Stack Web Developer & Aspiring Software Engineer</li>
+        <li>🎓 <b>Education:</b> B.Sc. in Software Engineering at <b>Islamic University of Technology (IUT)</b></li>
+        <li>🌐 <b>Specialization:</b> React, Next.js, Node.js, Express.js, MongoDB & Tailwind CSS</li>
+        <li>💡 <b>Goal:</b> Building scalable, high-performance web applications & mastering software architecture</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Currently Working On</h3>
+      <ul>
+        <li>⚡ Mastering full-stack development with <b>Next.js</b> & <b>NextAuth</b></li>
+        <li>🎨 Building dynamic, modern, & responsive user interfaces</li>
+        <li>🧠 Enhancing algorithms, data structures, and core software engineering principles</li>
+        <li>🚀 Exploring new technologies & working on exciting personal projects</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
