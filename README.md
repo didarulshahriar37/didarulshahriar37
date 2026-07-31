@@ -9,27 +9,30 @@
 
 <br/>
 
-### 👤 About Me
+<h2 align="center">✨ About Me</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Quick Overview</h3>
+    <td width="58%" valign="top">
+      <h3>🚀 Who I Am</h3>
+      <p>
+        Hi! I'm a passionate <b>Software Engineering undergraduate</b> at the <b>Islamic University of Technology (IUT)</b> with a drive for creating modern, responsive, and full-stack web applications.
+      </p>
       <ul>
-        <li>🧑‍💻 <b>Role:</b> MERN Stack Web Developer & Aspiring Software Engineer</li>
         <li>🎓 <b>Education:</b> B.Sc. in Software Engineering at <b>Islamic University of Technology (IUT)</b></li>
-        <li>🌐 <b>Specialization:</b> React, Next.js, Node.js, Express.js, MongoDB & Tailwind CSS</li>
-        <li>💡 <b>Goal:</b> Building scalable, high-performance web applications & mastering software architecture</li>
+        <li>💻 <b>Core Stack:</b> React.js, Next.js, Node.js, Express.js, MongoDB</li>
+        <li>🎨 <b>Styling & UI:</b> Tailwind CSS, DaisyUI, Responsive Web Design</li>
+        <li>⚡ <b>Currently Exploring:</b> NextAuth, Cloud Integration & Scalable Web Architecture</li>
+        <li>💡 <b>Goal:</b> Building impactful software solutions & mastering software engineering principles</li>
       </ul>
+      <br/>
+      <div>
+        <img src="https://img.shields.io/badge/Education-B.Sc.%20in%20SWE%20%40%20IUT-00F2FE?style=for-the-badge&logo=education&logoColor=black" alt="Education Badge"/>
+        <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-36BCF7?style=for-the-badge&logo=react&logoColor=black" alt="Stack Badge"/>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔧 Currently Working On</h3>
-      <ul>
-        <li>⚡ Mastering full-stack development with <b>Next.js</b> & <b>NextAuth</b></li>
-        <li>🎨 Building dynamic, modern, & responsive user interfaces</li>
-        <li>🧠 Enhancing algorithms, data structures, and core software engineering principles</li>
-        <li>🚀 Exploring new technologies & working on exciting personal projects</li>
-      </ul>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding GIF" />
     </td>
   </tr>
 </table>
