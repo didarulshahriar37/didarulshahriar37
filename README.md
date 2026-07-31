@@ -1,8 +1,11 @@
-<h1 align="center">
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">I'm <b>Didarul Shahriar</b></h2>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=00F2FE&center=true&vcenter=true&width=520&height=50&lines=Hi+there!+%F0%9F%91%8B;I'm+Didarul+Shahriar;Software+Engineering+Undergrad;MERN+Stack+Web+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vcenter=true&width=450&height=40&lines=Software+Engineering+Undergrad;MERN+Stack+Web+Developer" alt="Typing SVG" />
   </a>
-</h1>
+</div>
 
 <br/>
 
