@@ -11,28 +11,34 @@
 
 <h2 align="center">✨ About Me</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="58%" valign="top">
-      <h3>🚀 Who I Am</h3>
-      <p>
-        Hi! I'm a passionate <b>Software Engineering undergraduate</b> at the <b>Islamic University of Technology (IUT)</b> with a drive for creating modern, responsive, and full-stack web applications.
-      </p>
+    <td width="50%" valign="top">
+      <h3>🎓 University & Academics</h3>
+      <p><b>Islamic University of Technology (IUT)</b></p>
       <ul>
-        <li>🎓 <b>Education:</b> B.Sc. in Software Engineering at <b>Islamic University of Technology (IUT)</b></li>
-        <li>💻 <b>Core Stack:</b> React.js, Next.js, Node.js, Express.js, MongoDB</li>
-        <li>🎨 <b>Styling & UI:</b> Tailwind CSS, DaisyUI, Responsive Web Design</li>
-        <li>⚡ <b>Currently Exploring:</b> NextAuth, Cloud Integration & Scalable Web Architecture</li>
-        <li>💡 <b>Goal:</b> Building impactful software solutions & mastering software engineering principles</li>
+        <li>🏛️ <b>Department:</b> Computer Science and Engineering (CSE)</li>
+        <li>🎓 <b>Program:</b> B.Sc. in Software Engineering</li>
+        <li>🧠 <b>Core Focus:</b> Data Structures, Algorithms, OOP & Software Architecture</li>
+        <li>🚀 <b>Goal:</b> Building a strong theoretical & practical CS foundation</li>
       </ul>
       <br/>
       <div>
-        <img src="https://img.shields.io/badge/Education-B.Sc.%20in%20SWE%20%40%20IUT-00F2FE?style=for-the-badge&logo=education&logoColor=black" alt="Education Badge"/>
-        <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-36BCF7?style=for-the-badge&logo=react&logoColor=black" alt="Stack Badge"/>
+        <img src="https://img.shields.io/badge/University-IUT-00F2FE?style=for-the-badge&logo=graduation-cap&logoColor=black" alt="University Badge"/>
       </div>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding GIF" />
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Web Development & Tech</h3>
+      <p><b>Full-Stack MERN & Next.js Developer</b></p>
+      <ul>
+        <li>🌐 <b>Core Stack:</b> React.js, Next.js, Node.js, Express.js, MongoDB</li>
+        <li>🛠️ <b>Experience:</b> Crafting scalable, modern, and interactive web apps</li>
+        <li>💡 <b>Passion:</b> Turning complex ideas into elegant digital products</li>
+      </ul>
+      <br/>
+      <div>
+        <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-36BCF7?style=for-the-badge&logo=react&logoColor=black" alt="Stack Badge"/>
+      </div>
     </td>
   </tr>
 </table>
