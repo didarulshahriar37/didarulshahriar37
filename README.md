@@ -1,17 +1,20 @@
 <table width="100%">
   <tr>
-    <td width="100%" align="left">
+    <td width="50%" align="left">
       🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp;&nbsp; <code>didarul_shahriar.js</code>
+    </td>
+    <td width="50%" align="right">
+      &nbsp;
     </td>
   </tr>
   <tr>
-    <td width="100%" align="center">
+    <td colspan="2" width="100%" align="center">
       <br/>
       <h1>Hi there 👋</h1>
       <h2>I'm <b>Didarul Shahriar</b></h2>
       <br/>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=Software+Engineering+Undergrad+At+IUT;MERN+Stack+Web+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&height=50&lines=Software+Engineering+Undergrad+At+IUT;MERN+Stack+Web+Developer" alt="Typing SVG" />
       </a>
       <br/><br/>
     </td>
