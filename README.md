@@ -45,8 +45,8 @@
 
 ---
 
-## 🛠️ Skills & Tools
-<div align="left">
+<h2 align="center">🛠️ Skills & Tools</h2>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -92,12 +92,14 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=didarulshahriar37&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=didarulshahriar37&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 🤝🏼 Let's Connect
-<div align="left">
+<h2 align="center">🤝🏼 Let's Connect</h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/didarulshahriar/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
@@ -113,15 +115,17 @@
 
 ---
 
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=didarulshahriar37&theme=high-contrast)
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=didarulshahriar37&theme=high-contrast" alt="Contribution Graph" />
+</p>
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=didarulshahriar37&theme=dark" alt="GitHub Streak" /></a>
-
-<img src="https://raw.githubusercontent.com/didarulshahriar37/didarulshahriar37/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=didarulshahriar37&theme=dark" alt="GitHub Streak" /></a>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/didarulshahriar37/didarulshahriar37/output/snake.svg" alt="Snake animation" />
+</div>
 
 
