@@ -115,12 +115,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=didarulshahriar37&theme=high-contrast" alt="Contribution Graph" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/didarulshahriar37/didarulshahriar37/output/snake.svg" alt="Snake animation" width="95%" />
 </div>
 
@@ -143,9 +137,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=didarulshahriar37&color=blue" alt="Profile Views" />
-</div>
-
-
